@@ -17,7 +17,7 @@
   "dependencies": {
 
     "request": "2.88.0",
-    "rrule": "2.6.6"
+    "rrule": "2.8.1"
 
   },
   "devDependencies": {
