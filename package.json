@@ -36,7 +36,7 @@
     "time-grunt": "latest"
   },
   "dependencies": {
-    "electron": "^12.2.1",
+    "electron": "^28.3.2",
     "express": "^4.14.0",
     "express-ipfilter": "latest",
     "feedme": "latest",
@@ -46,7 +46,7 @@
     "request": "^2.78.0",
     "rrule": "latest",
     "simple-git": "^1.62.0",
-    "socket.io": "^1.5.1",
+    "socket.io": "^4.8.0",
     "valid-url": "latest",
     "walk": "latest"
   }
