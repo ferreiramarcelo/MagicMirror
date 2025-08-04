@@ -36,7 +36,7 @@
     "time-grunt": "latest"
   },
   "dependencies": {
-    "electron": "^12.2.1",
+    "electron": "^37.2.5",
     "express": "^4.14.0",
     "express-ipfilter": "latest",
     "feedme": "latest",
